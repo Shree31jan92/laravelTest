@@ -1,0 +1,8 @@
+database name=blog
+stored in database directory under blog folder
+C:\Users\mumhrtest\Shripad\blog\database\blog.sql
+
+
+users
+1. email:- shree31jan92@gmail.com password:-shree31
+2. email:- kunal@gmail.com password:- kunal123
